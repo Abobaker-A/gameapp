@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@0;1&display=swap");
+body {
+  background: #272b30;
+  color: #fff !important;
+}
+.LogoNav {
+  width: 75px;
+}
+.Logotitle {
+  font-family: "Xanh Mono" !important ;
+  font-style: italic;
+}
+input::placeholder {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.638) !important;
+  text-shadow: 1px 1px 2px #00f;
+}
+input:focus {
+  border-color: transparent !important;
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.loading{
+  background: #272b30;
+  z-index: 999;
+  position: fixed !important;
+}
+.content{
+  background-image: url(Imgs/paladins.b44d33d6e7ee1ba8.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+
+}
+.game , .homeGame{
+  transition: .5s all;
+}
+a{
+  text-decoration: none !important;
+}
+.game:hover , .homeGame:hover{
+  transform: scale(105%);
+}
+
+
+.OfflineLabel{
+  z-index: 99999;
+}
