@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gameapp/static/css/main.f8ce53d3.css",
-    "main.js": "/gameapp/static/js/main.bfa0721e.js",
+    "main.js": "/gameapp/static/js/main.ec6eb7ca.js",
     "static/media/fa-solid-900.ttf": "/gameapp/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/paladins.png": "/gameapp/static/media/paladins.b44d33d6e7ee1ba8.0fddd1fbe0a5e0a0af93.png",
     "static/media/joinfree.jpg": "/gameapp/static/media/joinfree.d5751ff804c935b205d3.jpg",
@@ -16,10 +16,10 @@
     "static/media/fa-v4compatibility.woff2": "/gameapp/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/gameapp/index.html",
     "main.f8ce53d3.css.map": "/gameapp/static/css/main.f8ce53d3.css.map",
-    "main.bfa0721e.js.map": "/gameapp/static/js/main.bfa0721e.js.map"
+    "main.ec6eb7ca.js.map": "/gameapp/static/js/main.ec6eb7ca.js.map"
   },
   "entrypoints": [
     "static/css/main.f8ce53d3.css",
-    "static/js/main.bfa0721e.js"
+    "static/js/main.ec6eb7ca.js"
   ]
 }
