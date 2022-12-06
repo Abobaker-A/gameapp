@@ -48,7 +48,7 @@ export default function Login({saveUserData}) {
         return schema.validate( user , {abortEarly:false})
     }
     async function sendUserApi(){
-      let {data} = await axios.post(`https://route-egypt-api.herokuapp.com/Signin`,user)
+      let {data} = await axios.post(`https://sticky-note-fe.vercel.app/signin`,user)
       if(data.message === "success"){
         setIsLoading(false);
         localStorage.setItem('userToken',data.token)
